@@ -1,0 +1,5 @@
+{
+  "name": "Pesarti Workflow Automation",
+  "description": "Automates the conversion of raw e-commerce order text into structured Production Orders for the Pesarti embroidery workflow.",
+  "requestFramePermissions": []
+}
